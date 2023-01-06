@@ -1,8 +1,7 @@
 <p align="center">
-![](profile.png)
+  <img width="250" height="250" src="profile.png">
+  <h1 align="center">Justin Horner</h1>
 </p>
-
-### Justin Horner
 
 I'm a software engineer focused on building high-performance, real-time experiences in game development and AR/VR. I also do that full-stack web dev thing with all the Python and JavaScripts.
 
