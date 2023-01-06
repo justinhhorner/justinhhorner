@@ -1,6 +1,8 @@
-### Justin Horner
+<p align="center">
+![](profile.png)
+</p>
 
-![Photo](profile.png)
+### Justin Horner
 
 I'm a software engineer focused on building high-performance, real-time experiences in game development and AR/VR. I also do that full-stack web dev thing with all the Python and JavaScripts.
 
@@ -9,18 +11,3 @@ I'm a software engineer focused on building high-performance, real-time experien
 * I make videos on [YouTube](https://youtube.com/@justinhhorner)
 * I make short games on [Itch.io](https://justinhhorner.itch.io)
 * I tweet code memes on [Twitter](https://twitter.com/justinhhorner)
-
-<!--
-**justinhhorner/justinhhorner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
