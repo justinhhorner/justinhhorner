@@ -1,5 +1,7 @@
 ### Justin Horner
 
+![Photo](profile.png)
+
 I'm a software engineer focused on building high-performance, real-time experiences in game development and AR/VR. I also do that full-stack web dev thing with all the Python and JavaScripts.
 
 * I work at [Supernatural](https://www.getsupernatural.com/)
