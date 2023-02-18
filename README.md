@@ -8,5 +8,4 @@ I'm a software engineer focused on building high-performance, real-time experien
 * I work at [Supernatural](https://www.getsupernatural.com/)
 * I code live on [Twitch](https://twitch.tv/justinhhorner)
 * I make videos on [YouTube](https://youtube.com/@justinhhorner)
-* I make short games on [Itch.io](https://justinhhorner.itch.io)
 * I tweet code memes on [Twitter](https://twitter.com/justinhhorner)
