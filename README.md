@@ -3,7 +3,7 @@
   <h1 align="center">Justin Horner</h1>
 </p>
 
-I'm a software engineer focused on building high-performance, real-time experiences in game development and AR/VR. I also do that full-stack web dev thing with all the Python and JavaScripts.
+I'm a software engineer focused on building high-performance, real-time experiences in game development and AR/VR. I also do the full-stack web dev thing using Python, C#, Node and TypeScript.
 
 * I work at [Meta](https://github.com/facebook) on [Supernatural](https://www.getsupernatural.com/)
 * I code live on [Twitch](https://twitch.tv/justinhhorner)
