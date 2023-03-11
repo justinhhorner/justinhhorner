@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="250" height="250" src="profile.png">
+  <img  src="header.png">
   <h1 align="center">Justin Horner</h1>
 </p>
 
