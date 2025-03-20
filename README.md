@@ -1,6 +1,6 @@
 ### Justin Horner
 
-I develop of games and the technology that makes them possible. Focused on high performance and  software across desktop, web, and mobile.
+I develop of games and the technology that makes them possible. Focused on high performance software across desktop, web, and mobile.
 
 - I'm a musician and game programmer
 - I make guitar-related videos on [YouTube](https://youtube.com/@justinhhorner)
